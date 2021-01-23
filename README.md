@@ -3,5 +3,5 @@ kyligence-toolkit is a common toolkit for regular task in kyligence (an enterpri
 
 # Usage
 
-    .\KyligenceApp.exe auto 7 "morning" "sales_cube"
+    .\KyligenceToolkit.exe auto 7 "morning" "sales_cube"
     
