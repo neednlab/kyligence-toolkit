@@ -1,0 +1,13 @@
+﻿cube,partition mode,batch
+pos_sales_item_production,month,1
+pos_sales,month,1
+vip_point,month,1
+vip,full,0
+pos_payment,month,1
+nps_cube,month,1
+vip_sales,month,1
+vip_sales_item,month,1
+pos_target,month,1
+pos_budget,full,0
+pos_promotion,month,1
+needn_month,month,99

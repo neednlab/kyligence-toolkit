@@ -1,0 +1,11 @@
+﻿User Name,Access Level,Access Value,Restrict Table,Restrict Column
+u1,ROD_REGION,East Region|Shanghai|N/A,dm.v_store,COORDINATE|STORE_NO
+u2,ROD_REGION,East Region,dm.v_store,COORDINATE
+u3,ROD_REGION,Shanghai,dm.v_store,COORDINATE
+u4,ROD_REGION,Shanghai,,
+u5,ROD_REGION,Shanghai,,
+u6,MANAGE_REGION_LEVEL5_NAME,Pinky Sun,,
+u7,MANAGE_REGION_LEVEL5_NAME,Kelly Qu,,
+u8,MANAGE_REGION_LEVEL5_NAME,Pinky Sun|N/A,,
+u9,MANAGE_REGION_LEVEL5_NAME,Kelly Qu,dm.v_store,COORDINATE
+u10,MANAGE_REGION_LEVEL5_NAME,Kelly Qu,dm.v_store,COORDINATE|STORE_NO
